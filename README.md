@@ -1,8 +1,12 @@
 # Our Moment Apart
 
+## The best, longer-form stories are being uploaded still, please wait
+
 A collection of short stories as Markdown and PDF format.
 
 ### Our Moment Apart: Intro
+
+**This intro explains the title of the book and says a little about me, the author.**
 
 <a href='https://github.com/mapmeld/our-moment-apart/blob/gh-pages/0-intro/0-intro.md'>Web</a>
 and
