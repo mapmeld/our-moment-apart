@@ -11,17 +11,17 @@ and
 ### Stories
 
 1. Other Backward Classes | <a href='https://github.com/mapmeld/our-moment-apart/blob/gh-pages/1-other-backward-classes/Other%20Backward%20Classes.md'>Web</a> | <a href='https://github.com/mapmeld/our-moment-apart/raw/gh-pages/1-other-backward-classes/Other%20Backward%20Classes.pdf'>PDF</a>
-2. Playing Pachinko | Markdown | PDF
+2. Playing Pachinko | Web | PDF
 3. The Younger Sally Jacobs | <a href='https://github.com/mapmeld/our-moment-apart/blob/gh-pages/3-sally-jacobs/3-sally-jacobs.md'>Web</a> | <a href='https://github.com/mapmeld/our-moment-apart/raw/gh-pages/3-sally-jacobs/3-sally-jacobs.pdf'>PDF</a>
-4. Datalirium | Markdown | PDF
-5. The Annotationist | Markdown | PDF
-6. P.A. | Markdown | PDF
-7. Rita Wan | Markdown | PDF
-8. Cloud Atlas Bug | Markdown | PDF
-9. Idealist House | Markdown | PDF
+4. Datalirium | Web | PDF
+5. The Annotationist | Web | PDF
+6. P.A. | Web | PDF
+7. Rita Wan | Web | PDF
+8. Cloud Atlas Bug | Web | PDF
+9. Idealist House | Web | PDF
 10. Morozov and Me | <a href='https://github.com/mapmeld/our-moment-apart/blob/gh-pages/10-morozov/10-morozov.md'>Web</a> | <a href='https://github.com/mapmeld/our-moment-apart/raw/gh-pages/10-morozov/10-morozov.pdf'>PDF</a>
-11. Battlestar *Erratica* | Markdown | PDF
-12. The *Zalos* Interpretaion | Markdown | PDF
+11. Battlestar *Erratica* | <a href='https://github.com/mapmeld/our-moment-apart/blob/gh-pages/11-battlestar/11-battlestar.md'>Web</a> | <a href='https://github.com/mapmeld/our-moment-apart/raw/gh-pages/11-battlestar/11-battlestar.pdf'>PDF</a>
+12. The *Zalos* Interpretaion | Web | PDF
 
 ### Plot devices
 
