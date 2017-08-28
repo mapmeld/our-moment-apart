@@ -21,7 +21,7 @@ and
 5. The Annotationist | Web | PDF
 6. P.A. | Web | PDF
 7. Rita Wan | <a href='https://github.com/mapmeld/our-moment-apart/blob/gh-pages/7-rita-wan/7-rita-wan.md'>Web</a> | <a href='https://github.com/mapmeld/our-moment-apart/raw/gh-pages/7-rita-wan/7-rita-wan.pdf'>PDF</a>
-8. Cloud Atlas Bug | Web | PDF
+8. Cloud Atlas Bug | <a href='https://github.com/mapmeld/our-moment-apart/blob/gh-pages/8-cloud/8-cloud.md'>Web</a> | <a href='https://github.com/mapmeld/our-moment-apart/raw/gh-pages/8-cloud/8-cloud.pdf'>PDF</a>
 9. Idealist House | Web | PDF
 10. Morozov and Me | <a href='https://github.com/mapmeld/our-moment-apart/blob/gh-pages/10-morozov/10-morozov.md'>Web</a> | <a href='https://github.com/mapmeld/our-moment-apart/raw/gh-pages/10-morozov/10-morozov.pdf'>PDF</a>
 11. Battlestar *Erratica* | <a href='https://github.com/mapmeld/our-moment-apart/blob/gh-pages/11-battlestar/11-battlestar.md'>Web</a> | <a href='https://github.com/mapmeld/our-moment-apart/raw/gh-pages/11-battlestar/11-battlestar.pdf'>PDF</a>
