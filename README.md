@@ -14,7 +14,7 @@ and
 
 ### Stories
 
-1. Other Backward Classes - <a href='https://github.com/mapmeld/our-moment-apart/blob/gh-pages/1-other-backward-classes/Other%20Backward%20Classes.md'>Web</a> - <a href='https://github.com/mapmeld/our-moment-apart/raw/gh-pages/1-other-backward-classes/Other%20Backward%20Classes.pdf'>PDF</a>
+1. From Carbon to Silicon - <a href='https://github.com/mapmeld/our-moment-apart/blob/gh-pages/1-from-carbon/1-from-carbon.md'>Web</a> - <a href='https://github.com/mapmeld/our-moment-apart/raw/gh-pages/1-from-carbon/1-from-carbon.pdf'>PDF</a>
 2. Playing Pachinko - Web - PDF
 3. The Younger Sally Jacobs - <a href='https://github.com/mapmeld/our-moment-apart/blob/gh-pages/3-sally-jacobs/3-sally-jacobs.md'>Web</a> - <a href='https://github.com/mapmeld/our-moment-apart/raw/gh-pages/3-sally-jacobs/3-sally-jacobs.pdf'>PDF</a>
 4. Datalirium - Web - PDF
@@ -29,7 +29,7 @@ and
 
 ### Plot devices
 
-1. Other Backward Classes: a Von Neumann nanobot civilization
+1. From Carbon to Silicon: a Von Neumann nanobot civilization
 2. Playing Pachinko: the first military AI
 3. The Younger Sally Jacobs: interdimensional relationship drama
 4. Datalirium: a runaway blockchain project
