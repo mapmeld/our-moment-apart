@@ -1,4 +1,4 @@
-# The Younger Sally Jacobs
+# The Younger Sally Marchan
 
 Publishing this report will be a challenge. Verifying it may be impossible. I can only
 assure you that, unlike many other accounts that cross your desk, it has been meticulously
@@ -15,7 +15,7 @@ persons involved. I found myself searching for one piece out of place, and found
 If anyone on the peer review committee can comment on the quantum physics explanation
 provided by the perpetrator, please contact me.
 
-This is the account of the Younger Sally Jacobs.
+This is the account of the Younger Sally Marchan.
 
 <hr/>
 
@@ -42,7 +42,7 @@ questioning.
 It was unusual to get a pie, but much more unusual to have another researcher's case
 referred. There were only a couple of hours before the first client arrived, continuing
 a painfully fruitless research into nanofibers. In those two hours, a phone number turned
-into a name, and a name into a handful of links. Sally Jacobs, a painter living in Boston,
+into a name, and a name into a handful of links. Sally Marchan, a painter living in Boston,
 who had graduated from art school late, only a few years before. Without knowing Sally's
 husband's name, it would be hard to know if he were credible. If he had completed Dr.
 Chabon's training, then that was another story.
@@ -145,7 +145,7 @@ see if Victor was home. Then another officer drove to the house to collect state
 
 <blockquote>
 	It became clear... that ‘Sally’ was lying about her identity. An officer took
-	statements from both Victor and Sally Jacobs. Neither had left their house or seen
+	statements from both Victor and Sally Marchan. Neither had left their house or seen
 	anything unusual.
 </blockquote>
 
@@ -187,7 +187,7 @@ I stopped note-taking. But internally I was making the list. There would be phot
 of Sally at the police station and psych ward. Even years later, voting records would make
 it possible to track down Victor and Sally... whoever she was. There would need to be
 proof that the other Sally existed. DNA would scientifically prove whether she was related
-to the rest of the Jacobs family, but that would require their consent. Not likely.
+to the rest of the Marchan family, but that would require their consent. Not likely.
 
 Sally halted her story. "I have to go now, but I can follow up. It gets deeper, more involved.
 Earl told me... that it's called duplication. It's been heard of before. It has, hasn't it?"
@@ -216,7 +216,7 @@ There had been two paranormal investigations into duplication before, described 
 my reference book, Strange Happenings. I had been right to tell Sally that they wouldn't
 be so helpful. Without an explanation for the earlier cases, it would be hard to link
 this case to them. Besides, it looked like Sally's case would have more documentation, if
-the police and both duplicates were willing to share their information. 
+the police and both duplicates were willing to share their information.
 
 So, I went into the second meeting expecting elaboration. I certainly did not expect to be
 sent on one of the strangest turns of my career.
@@ -368,7 +368,7 @@ my chair. I struggled with an onset of nerves brought on by meeting another rese
 by deceiving him, by ignoring the elephant in the room and stealing one of the greatest
 mysteries that we'd ever encountered from right under his nose! In the last ten minutes,
 I remembered to sprint back down the hall and warn the receptionist to say as little as possible
-to the Jacobses. "Very talkative, anything could set them off. Just point them my way."
+to the Marchanes. "Very talkative, anything could set them off. Just point them my way."
 She nodded.
 
 At last I could hear the receptionist buzzing them in, the footsteps down the hallway, and
@@ -771,7 +771,7 @@ it's because of technology. I think it's because we stopped believing in the fea
 creatures of the forest. Not just raccoons and coyotes, but spirits and demons.
 
 I ate lunch at the diner where I parked my car. On a whim, I asked if the waitress had heard
-of Sally Jacobs. She hadn't. So much for the small town door-knocking approach.
+of Sally Marchan. She hadn't. So much for the small town door-knocking approach.
 
 That afternoon, I had a tour of the old Byer Mansion. It was exactly as the Younger Sally
 had described it - unchanged not in material, in detail, in campiness. I gritted my teeth
@@ -1293,7 +1293,7 @@ one of me and the girl?"
 modify the universe like that."
 
 "That's nothing. I've raided his workshop, looked into his papers, and to him, these
-ethereal existences, duplication is nothing. Here I was wondering how he managed to 
+ethereal existences, duplication is nothing. Here I was wondering how he managed to
 modify space, time, and matter, and he wrote that it would be nothing, like smudging
 freshly printed ink. Like me and that cart. Physics is bullshit. Paranormal research, too.
 We're just waterbugs skimming the surface."
@@ -1382,6 +1382,6 @@ I met the other Sally. I found the older Earl living happily in Nigeria.<br/>
 You are from this universe.<br/>
 Earl found evidence that a lab experiment duplicated you. He hides it because he is proud
 of your resilience and the new life that you have made together. For a while you had to
-run, but now you can stop running.<br/> 
-You are the new Sally Jacobs.
+run, but now you can stop running.<br/>
+You are the new Sally Marchan.
 </blockquote>

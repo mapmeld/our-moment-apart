@@ -16,7 +16,7 @@ and
 
 1. From Carbon to Silicon - <a href='https://github.com/mapmeld/our-moment-apart/blob/gh-pages/1-from-carbon/1-from-carbon.md'>Web</a> - <a href='https://github.com/mapmeld/our-moment-apart/raw/gh-pages/1-from-carbon/1-from-carbon.pdf'>PDF</a>
 2. Playing Pachinko - Web - PDF
-3. The Younger Sally Jacobs - <a href='https://github.com/mapmeld/our-moment-apart/blob/gh-pages/3-sally-jacobs/3-sally-jacobs.md'>Web</a> - <a href='https://github.com/mapmeld/our-moment-apart/raw/gh-pages/3-sally-jacobs/3-sally-jacobs.pdf'>PDF</a>
+3. The Younger Sally Marchan - <a href='https://github.com/mapmeld/our-moment-apart/blob/gh-pages/3-sally-marchan/3-sally-marchan.md'>Web</a> - <a href='https://github.com/mapmeld/our-moment-apart/raw/gh-pages/3-sally-marchan/3-sally-marchan.pdf'>PDF</a>
 4. Datalirium - Web - PDF
 5. The Annotationist - Web - PDF
 6. P.A. - <a href='https://github.com/mapmeld/our-moment-apart/blob/gh-pages/6-pa/6-pa.md'>Web</a> - <a href='https://github.com/mapmeld/our-moment-apart/raw/gh-pages/6-pa/6-pa.pdf'>PDF</a>
@@ -31,7 +31,7 @@ and
 
 1. From Carbon to Silicon: a Von Neumann nanobot civilization
 2. Playing Pachinko: the first military AI
-3. The Younger Sally Jacobs: interdimensional relationship drama
+3. The Younger Sally Marchan: interdimensional relationship drama
 4. Datalirium: a runaway blockchain project
 5. The Annotationist: writing about old relationships
 6. P.A.: bosses with secrets
@@ -39,18 +39,16 @@ and
 8. Cloud Atlas Bug: programmers interacting with bugs over multiple lifetimes
 9. Idealist House: Terrace House in a dystopian future
 10. Morozov and Me: a joke that becomes an intelligence asset
-11. Battlestar *Erratica*: an information economy with a military
+11. Battlestar *Erratica*: an information theory starship
 12. The *Zalos* Interpretation: aliens' first contact takes place at sea
 
 ## Copyright statement
 
 These stories are free. Do not pay someone to read them.
 
-If you do want to support me, find @mapmeld on Venmo or Patreon, or send a pull request (code change) to me on GitHub. 
+If you do want to support me, find @mapmeld on Venmo or Patreon, or send a pull request (code change) to me on GitHub.
 I haven’t accepted payments like this before so it’s an experiment - expect me to have only a small presence on the site.
 
 You may share and distribute this essay and stories under the latest Creative Commons Attribution Non-Commercial Share-Alike license.
 
 If you are interested in developing these further (perhaps mixing it with my Medium posts about quantum computing, learning to code, or Dubai) or have plans to use this commercially in any format, contact me in 2018.
-
-
