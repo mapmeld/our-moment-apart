@@ -4,12 +4,13 @@ A collection of short stories as Markdown and PDF format.
 
 ### Our Moment Apart: Intro
 
-I’m excited to share something new - I combined ten short fiction stories into a book "Our Moment Apart" which you can read free here in web and PDF formats (or purchase for Kindle).
+I’m excited to share something new - I combined ten short fiction stories into a book "Our Moment Apart" which you can read free here in web and <a href='https://github.com/mapmeld/our-moment-apart/raw/gh-pages/AllTogetherBook.pdf'>PDF</a>
+formats (or purchase for Kindle).
 
 Over the past few years, I would browse bookstores and realize I was looking for a few specific stories,
 but they didn't exist yet, and I would have to write them.
 
-Most of these stories are sci-fi  — they range from 1,400 to 15,000 words, with the longer ones delving into more realistic plots with AIs, quantum computers, and blockchains. The title "Our Moment Apart" describes our present society: a temporary break where people and technology co-exist separately. To be honest, one story I’m rushing to post because it could come true any day.
+Most of these stories are speculative sci-fi  — they range from 1,400 to 14,000 words, and some go deeper into more serious plots with AIs, quantum computers, and blockchains. The title *Our Moment Apart* refers to our present society. For a brief time, computers and people now coexist as two separate intelligences. We like to think that we’ve fully integrated with and connected through our machines, but if you look at the constant work to port real-world data around technical blockers, the languages and regions of the world ignored by tech companies, and our continued reliance on faxes and checks, you can see there is a lot to go, before any future where we are truly enveloped.
 
 ### Stories and Plot Devices
 
@@ -23,7 +24,13 @@ Most of these stories are sci-fi  — they range from 1,400 to 15,000 words,
 8. Cloud Atlas Bug - <a href='https://github.com/mapmeld/our-moment-apart/blob/gh-pages/8-cloud/8-cloud.md'>Web</a> - <a href='https://github.com/mapmeld/our-moment-apart/raw/gh-pages/8-cloud/8-cloud.pdf'>PDF</a> - programmers interacting with bugs over multiple lifetimes
 9. Morozov and Me - <a href='https://github.com/mapmeld/our-moment-apart/blob/gh-pages/9-morozov/9-morozov.md'>Web</a> - <a href='https://github.com/mapmeld/our-moment-apart/raw/gh-pages/9-morozov/9-morozov.pdf'>PDF</a> - a joke program becomes an intelligence asset
 10. Battlestar *Erratica* - <a href='https://github.com/mapmeld/our-moment-apart/blob/gh-pages/10-battlestar/10-battlestar.md'>Web</a> - <a href='https://github.com/mapmeld/our-moment-apart/raw/gh-pages/10-battlestar/10-battlestar.pdf'>PDF</a> - a society has so much information, it colonizes space to store it
-11. The *Zalos* Interpretation - <a href='https://github.com/mapmeld/our-moment-apart/blob/gh-pages/11-zalos/11-zalos.md'>Web</a> - <a href='https://github.com/mapmeld/our-moment-apart/raw/gh-pages/11-zalos/11-zalos.pdf'>PDF</a> - aliens' first contact takes place at sea
+
+### Future Work
+
+I have some other stories which are half-done and I'm currently working on them!
+
+I would appreciate your feedback on existing stories, and volunteers to help work through the next few,
+on first contact at sea, micronations, and other weird topics.
 
 ## Copyright statement
 
