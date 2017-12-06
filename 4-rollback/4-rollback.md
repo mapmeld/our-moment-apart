@@ -104,7 +104,7 @@ A tall blond man emerged from behind the side curtain. He strode out, shook hand
 
 The false Aleksander was mobbed by people at the end of the talk. Students and greybeards alike. His insisting, "please, no questions!" was the last thing Gem heard as he left the hall.
 
-       Gem thought for a moment to thank him, to shaking his hand. But it would be too conspicuous. And she had to add new resources on her server. Datalirium was trending.
+Gem thought for a moment to thank him, to shaking his hand. But it would be too conspicuous. And she had to add new resources on her server. Datalirium was trending.
 
 ----
 After the meeting with her student, Gem had driven out to Nathan’s new office.
