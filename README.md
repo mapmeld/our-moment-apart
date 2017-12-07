@@ -5,7 +5,7 @@ A collection of short stories as Markdown and PDF format.
 ### Our Moment Apart: Intro
 
 I’m excited to share something new - I combined ten short fiction stories into a book "Our Moment Apart" which you can read free here in web and <a href='https://github.com/mapmeld/our-moment-apart/raw/gh-pages/AllTogetherBook.pdf'>PDF</a>
-formats (or purchase for Kindle).
+formats (or <a href='https://www.amazon.com/dp/B075CWJX7X'>purchase for Kindle</a>).
 
 Over the past few years, I would browse bookstores and realize I was looking for a few specific stories,
 but they didn't exist yet, and I would have to write them.
